@@ -1,0 +1,35 @@
+﻿body {
+    background-image: url("C:\Users\aswat\source\repos\vehicle_registration\abstract-gradient-background-with-grain-texture-captivating-noise-airbrush-minimalist-wallpaper_8048-560.avif");
+    color: floralwhite;
+}
+h1{
+    font-family:'Brush Script MT';
+    text-align:center;
+
+}
+label{
+    font-weight:bold
+}
+input{
+    background-color:black;
+    color:ghostwhite;
+}
+
+
+.box {
+    align-content: center;
+    border-radius: 20px;
+  
+    text-align: center;
+    padding: 25px 30px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: 90px;
+    margin-right: 90px;
+    border:none;
+}
+
+    
+
+
+
